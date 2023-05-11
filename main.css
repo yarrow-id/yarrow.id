@@ -39,6 +39,14 @@ a:visited {
   color: hsl(204, 86%, 53%);
 }
 
+.hero-title {
+  font-size: 4rem;
+}
+
+.hero-subtitle {
+  font-size: 1.5rem;
+}
+
 .heropic > * {
   color: white;
 }
