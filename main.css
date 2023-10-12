@@ -26,6 +26,7 @@ a {
 }
 
 .resource-link {
+  color: hsl(204, 86%, 53%) !important;
   text-transform: uppercase;
   letter-spacing: 1px;
   font-size: 11px;
